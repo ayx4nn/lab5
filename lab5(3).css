@@ -1,0 +1,26 @@
+.margin-box {
+    border: 1px dashed black;
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.border-box {
+    background-color: #0fa66d;
+    padding: 20px;
+}
+
+
+.padding-box {
+    background-color: #dddddd;
+    padding: 20px;
+}
+
+
+.content-box {
+    border: 1px dashed rgb(186, 186, 186);
+    padding: 40px;
+}
